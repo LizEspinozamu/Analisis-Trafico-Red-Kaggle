@@ -11,3 +11,4 @@ Excel: Validación de datos y estructuración inicial.
 * Modelado de Datos: Estructuración de tablas para optimizar el rendimiento de las consultas en Power BI.
 * Análisis Exploratorio (EDA): Identificación de tendencias y comportamientos recurrentes en el tráfico de red.
 * Visualización: Diseño de un tablero dinámico enfocado en KPIs de cumplimiento y eficiencia operativa.
+![Analisis-Trafico-Red-Kaggle}](Analisis-Trafico-Red-Kaggle.png)
